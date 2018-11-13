@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<camMatrix type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    7.3670938305096092e+02 0. 3.0202532408395120e+02 0.
+    7.3866397659154723e+02 2.9044362703059448e+02 0. 0. 1.</data></camMatrix>
+<distCoeff type_id="opencv-matrix">
+  <rows>1</rows>
+  <cols>5</cols>
+  <dt>d</dt>
+  <data>
+    1.3311690921068262e-01 -1.9300718985222901e-01
+    1.0039235721274655e-02 -1.1557489371953225e-03
+    -2.8953927232893113e+00</data></distCoeff>
+<length>10</length>
+<matrix0 type_id="opencv-matrix">
+  <rows>7</rows>
+  <cols>7</cols>
+  <dt>i</dt>
+  <data>
+    0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 1 1 1 1 0 0 0 1 1 1 1 0 0 0 0 0 0 1 0
+    0 0 1 1 1 0 1 0 0 0 0 0 0 0 0</data></matrix0>
+<matrix1 type_id="opencv-matrix">
+  <rows>7</rows>
+  <cols>7</cols>
+  <dt>i</dt>
+  <data>
+    0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 1 0 1 1 1 0 0 1 0 1 1 0 0 0 1 0 1 1 0
+    0 0 1 1 1 1 1 0 0 0 0 0 0 0 0</data></matrix1>
+<matrix2 type_id="opencv-matrix">
+  <rows>7</rows>
+  <cols>7</cols>
+  <dt>i</dt>
+  <data>
+    0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 1 0 1 0 0 0 0 1 0 1 1 0 0 0 1 0 1 1 0
+    0 0 1 1 0 0 1 0 0 0 0 0 0 0 0</data></matrix2>
+<matrix3 type_id="opencv-matrix">
+  <rows>7</rows>
+  <cols>7</cols>
+  <dt>i</dt>
+  <data>
+    0 0 0 0 0 0 0 0 1 0 1 1 0 0 0 0 1 1 1 0 0 0 0 1 1 1 0 0 0 0 0 0 1 0
+    0 0 1 1 1 0 1 0 0 0 0 0 0 0 0</data></matrix3>
+<matrix4 type_id="opencv-matrix">
+  <rows>7</rows>
+  <cols>7</cols>
+  <dt>i</dt>
+  <data>
+    0 0 0 0 0 0 0 0 1 0 1 1 0 0 0 0 0 1 1 0 0 0 1 0 1 0 1 0 0 1 0 0 1 1
+    0 0 1 1 1 0 1 0 0 0 0 0 0 0 0</data></matrix4>
+<matrix5 type_id="opencv-matrix">
+  <rows>7</rows>
+  <cols>7</cols>
+  <dt>i</dt>
+  <data>
+    0 0 0 0 0 0 0 0 1 1 0 1 1 0 0 0 1 0 1 1 0 0 1 0 1 0 1 0 0 1 0 1 1 0
+    0 0 1 1 0 0 1 0 0 0 0 0 0 0 0</data></matrix5>
+<matrix6 type_id="opencv-matrix">
+  <rows>7</rows>
+  <cols>7</cols>
+  <dt>i</dt>
+  <data>
+    0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 1 1 0 0 0 1 0 1 1 0 0 0 1 1 0 0 0
+    0 0 1 1 1 0 1 0 0 0 0 0 0 0 0</data></matrix6>
+<matrix7 type_id="opencv-matrix">
+  <rows>7</rows>
+  <cols>7</cols>
+  <dt>i</dt>
+  <data>
+    0 0 0 0 0 0 0 0 1 1 0 0 1 0 0 1 1 0 1 0 0 0 1 1 0 1 0 0 0 1 0 1 1 0
+    0 0 1 1 1 0 1 0 0 0 0 0 0 0 0</data></matrix7>
+<matrix8 type_id="opencv-matrix">
+  <rows>7</rows>
+  <cols>7</cols>
+  <dt>i</dt>
+  <data>
+    0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 0 0 0 1 1 1 0 1 0 0 1 0 1 0 1
+    0 0 1 1 1 1 0 0 0 0 0 0 0 0 0</data></matrix8>
+<matrix9 type_id="opencv-matrix">
+  <rows>7</rows>
+  <cols>7</cols>
+  <dt>i</dt>
+  <data>
+    0 0 0 0 0 0 0 0 1 0 1 1 1 0 0 1 0 1 0 0 0 0 1 1 0 1 0 0 0 1 1 1 1 0
+    0 0 1 1 1 0 1 0 0 0 0 0 0 0 0</data></matrix9>
+</opencv_storage>
